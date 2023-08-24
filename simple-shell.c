@@ -6,7 +6,7 @@
 #include <string.h>
 
 /**
- * main - prompt a user to type
+ * main - prompt a user to type a command
  *
  * Return: Always 0.
  */
